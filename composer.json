@@ -1,0 +1,5 @@
+{
+    "require": {
+        "byjg/sparqllib": "^1.0"
+    }
+}
